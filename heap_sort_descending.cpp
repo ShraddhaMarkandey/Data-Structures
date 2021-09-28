@@ -40,7 +40,7 @@ int main()
         cin>>arr[i];
     }
     heapSort(arr,size);
-    cout<<"Sorted Array in ascending order"<<endl;
+    cout<<"Sorted Array in descending order"<<endl;
     for(int i=0;i<size;i++)
     {
         cout<<arr[i]<<" ";
